@@ -1,5 +1,7 @@
 body{
     background-color: #444444;
+    border-style: solid;
+    border-color: white;
 }
 img { 
     display: block; 
